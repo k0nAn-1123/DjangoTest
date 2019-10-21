@@ -1,5 +1,4 @@
-项目结构<br>
-====<br>
+#项目结构<br>
 .<br>
 |-- DjangoTest<br>
 |   |-- __init__.py<br>
@@ -10,8 +9,7 @@
 `--db.splite3<br>
 `-- manage.py<br>
 <br>
-目录说明：<br>
-====<br>
+#目录说明：<br>
 manage.py: 一个实用的命令行工具，可让你以各种方式与该 Django 项目进行交互。<br>
 DjangoTest/__init__.py: 一个空文件，告诉 Python 该目录是一个 Python 包。<br>
 DjangoTest/admin.py：后台，可以用很少量的代码就拥有一个强大的后台。<br>
